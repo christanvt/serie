@@ -45,4 +45,4 @@
 ## Test the site
 
 
-<a href="https://serie.devformatic.fr/">serie.devformatic.fr</a>
+<a href="https://series.devformatic.fr/">series.devformatic.fr</a>
